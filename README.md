@@ -57,10 +57,3 @@ I (5194) MQTT_EXAMPLE: MQTT_EVENT_DATA
 TOPIC=/topic/qos0
 DATA=data
 ```
-
-#เเสดงผล
-
-![Screenshot 2023-11-08 101033](https://github.com/CHAIYAPRUK/MQTT_BUTTON_LAB3/assets/115066395/4fc4faf5-ed54-402f-a03e-54d7fc7fc18b)
-
-![Screenshot 2023-11-08 101043](https://github.com/CHAIYAPRUK/MQTT_BUTTON_LAB3/assets/115066395/8b74a14c-29b3-45a4-91a0-b33d7bebfa26)
-
